@@ -169,7 +169,6 @@
     {
       "label": "Assertion Consumer Service (ACS)",
       "controlType": "input",
-      "visible": true,
       "hint:i": "%{_.fixedVar}/assertionConsumerService.aspx"
     },
     "assertionOffsetMinutes": 
